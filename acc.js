@@ -1,4 +1,4 @@
-#ACC.JS UPDATION#
+
 
 import { LightningElement } from 'lwc';
 import AccountObject from '@salesforce/schema/Account';
